@@ -1,0 +1,1 @@
+{"name":"Local: digit","url":"d:\\Phitron\\OOP & Python\\Week1_practice_day1\\digit.cpp","tests":[{"id":1695699816173,"input":"4\n121\n39\n123456\n1200","output":"1 2 1\n9 3\n6 5 4 3 2 1\n0 0 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\OOP & Python\\Week1_practice_day1\\digit.cpp","group":"local","local":true}

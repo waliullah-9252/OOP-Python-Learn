@@ -1,0 +1,5 @@
+print(age)
+print(age + interest_ratio)
+print(interest_ratio)
+print(name)
+print(district)
